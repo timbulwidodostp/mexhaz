@@ -1,6 +1,8 @@
 # mexhaz
 Mixed effect parametric excess hazard models Use mexhaz With (In) R Software
 
+https://www.youtube.com/watch?v=NpZ2vdnlIJ4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
